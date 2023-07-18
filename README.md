@@ -1,1 +1,1 @@
-https://paula-gaj.github.io/goit-markup-hw-01/
+https://paula-gaj.github.io/goit-markup-hw-02/
